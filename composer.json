@@ -1,0 +1,17 @@
+{
+  "name": "alina/phpmvc-framework",
+  "authors": [
+    {
+      "name": "Alina Kovyrialova",
+      "email": "email@email.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "app\\": "./"
+    }
+  },
+  "require": {
+    "vlucas/phpdotenv": "^5.5"
+  }
+}
